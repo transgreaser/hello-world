@@ -1,3 +1,9 @@
-# hello-world
+#hello-world balamabam
+
+new to coding & looking forward. thanks for sharing your repositories, knowledge, brilliance cheers!
+
+github tutorial first go at a repository and a read-me file. cheers! help always appreciated. humbily n00b...xx
+
+https://guides.github.com/activities/hello-world/branching.png
+
 balamabam
-i'm a student and just learning web coding. looking forward. thanks for sharing your repositories, knowledge, brilliance. 
